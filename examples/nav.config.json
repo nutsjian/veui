@@ -1,0 +1,30 @@
+{ 
+  "开发指南": [
+    {
+      "desc": "介绍",
+      "name": "guid",
+      "path": "/guid"
+    },{
+      "name": "index",
+      "path": "/",
+      "type": "pages"
+    }
+  ],
+  "组件": [
+    {
+      "desc": "基础组件",
+      "path": "/component",
+      "items": [
+        {
+          "desc": "Test 测试",
+          "name": "test",
+          "path": "/test"
+        },{
+          "desc": "键盘",
+          "name": "keyboard",
+          "path": "/keyboard"
+        }
+      ]
+    }
+  ]
+}
